@@ -5,6 +5,6 @@ public class arithmetic {
         int sum =a+b;
         int mul=a*b;
         System.out.println("sum:"+sum);
-        System.err.println("multi:"+mul);    }
+        System.out.println("multi:"+mul);    }
 
 }
